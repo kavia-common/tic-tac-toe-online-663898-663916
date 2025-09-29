@@ -1,0 +1,10 @@
+{
+  "source": "src",
+  "output": "build",
+  "static": "public",
+  "ignore": [
+    "node_modules",
+    ".git",
+    "build"
+  ]
+}

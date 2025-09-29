@@ -1,0 +1,27 @@
+{
+  "name": "react-kavia",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "lint": "echo 'Linting...' && exit 0",
+    "build": "echo 'Building...' && exit 0",
+    "test": "echo 'Testing...' && exit 0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
